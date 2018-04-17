@@ -1,2 +1,4 @@
 # Trash-World
-Cały projekt kodu dotyczący Trash World
+Yo tutaj Cris!
+
+Testujemy ten shiet!
