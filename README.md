@@ -1,4 +1,4 @@
 # Trash-World
 Yo tutaj Cris!
 
-Testujemy ten shiet!
+Console.WriteLine("Fak ju");
